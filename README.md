@@ -19,8 +19,7 @@ You can install the WheelPal app with three methods.
 > 2.  Download WheelPal.ipa
 > 3.  Enter your iCloud account name and password.
 > 4.  Drag and drop the IPA of WheelPal, which can be downloaded from
->     the above button or else, select **Devices** from the menu and
->     then select **Install packages**.
+>     the above button or else, select **Devices** from the menu and then select **Install packages**.
 > 5.  Select the package you want to install.
 > 6.  Then Click on **Open**.
 > 7.  This will take a few seconds and then you will find the
