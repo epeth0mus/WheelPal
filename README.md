@@ -38,14 +38,10 @@ You can install the WheelPal app with three methods.
 > > 1.  Download AltServer for Mac with [alstore](https://altstore.io/).
 > > 2.  Copy “AltServer.app” to your Applications folder.
 > > 3.  Launch AltServer (it will appear as an icon in the menu bar).
-> > 4.  Connect your iPhone to your computer and make sure it is
-
-     unlocked.
+> > 4.  Connect your iPhone to your computer and make sure it is unlocked.
 
 > > 5.  Trust your iPhone with your computer (if needed).
-> > 6.  (**Mojave only**) Open iTunes and enable iTunes Wi-Fi sync for
-
-     your phone.
+> > 6.  (**Mojave only**) Open iTunes and enable iTunes Wi-Fi sync for your phone.
 
 > > 7.  (**Catalina only**) Open Finder and enable “**Show this iPhone when on WiFi**” for your phone.
 > > 8.  Click the AltServer icon in the Mac menu bar, click “**Install AltStore**”, then choose your phone.
