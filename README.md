@@ -79,7 +79,7 @@ You can install the WheelPal app with three methods.
 
 ### 3. By Carplayhacks.com
 
-> Also you can install WheelPal.ipa from [CarPlayhacks](CarPlayhacks.com). The ipa file and the installation and user guides are provided there for your convenience.
+> Also you can install WheelPal.ipa from [CarPlayhacks](https://carplayhacks.com). The ipa file and the installation and user guides are provided there for your convenience.
 >
 > > #### Using WheelPal App
 > >
